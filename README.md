@@ -55,6 +55,10 @@ def cdr(pair):
 I wrote a [second version](cons2.py) to show the similarity
 of `car` and `cdr`.
 
+I also did a [Go language](cons2.go) implementation.
+It's similar to the Python version,
+except it specifies argument and return types.
+
 ## Interview Analysis
 
 This strikes me as a question from the
