@@ -58,6 +58,8 @@ of `car` and `cdr`.
 I also did a [Go language](cons2.go) implementation.
 It's similar to the Python version,
 except it specifies argument and return types.
+I had to use a lot of `interface{}`,
+and I defined a few types to avoid head-spinning function signatures.
 
 ## Interview Analysis
 
